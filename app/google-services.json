@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "731472781744",
+    "project_id": "roman-uesan-202601",
+    "storage_bucket": "roman-uesan-202601.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731472781744:android:63c70535fef39ea1d8f675",
+        "android_client_info": {
+          "package_name": "com.example.pc2romankelly22200195"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV11uR23V1UavihXuGotlm9ZY3V6Nj7zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731472781744:android:bdc05ae36f3b6356d8f675",
+        "android_client_info": {
+          "package_name": "com.example.uesanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV11uR23V1UavihXuGotlm9ZY3V6Nj7zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731472781744:android:6fa46c4bbb1f41bdd8f675",
+        "android_client_info": {
+          "package_name": "con.example.uesanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV11uR23V1UavihXuGotlm9ZY3V6Nj7zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
